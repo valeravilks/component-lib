@@ -1,0 +1,15 @@
+{
+    "name": "valeravilks/component-lib",
+    "autoload": {
+        "psr-4": {
+            "Valeravilks\\ComponentLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valera-V",
+            "email": "valera@dreamersofday.co"
+        }
+    ],
+    "require": {}
+}
